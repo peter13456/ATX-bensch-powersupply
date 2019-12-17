@@ -1,0 +1,6 @@
+echo "# ATX-bensch-powersupply" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/peter13456/ATX-bensch-powersupply.git
+git push -u origin master
